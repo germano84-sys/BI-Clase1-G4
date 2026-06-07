@@ -1,0 +1,16 @@
+[
+  { "clave": 1, "descripcion": "CRUZ ROJA" },
+  { "clave": 2, "descripcion": "DIF" },
+  { "clave": 3, "descripcion": "ESTATAL" },
+  { "clave": 4, "descripcion": "IMSS" },
+  { "clave": 5, "descripcion": "IMSS-BIENESTAR" },
+  { "clave": 6, "descripcion": "ISSSTE" },
+  { "clave": 7, "descripcion": "MUNICIPAL" },
+  { "clave": 8, "descripcion": "PEMEX" },
+  { "clave": 9, "descripcion": "PRIVADA" },
+  { "clave": 10, "descripcion": "SEDENA" },
+  { "clave": 11, "descripcion": "SEMAR" },
+  { "clave": 12, "descripcion": "SSA" },
+  { "clave": 13, "descripcion": "UNIVERSITARIO" },
+  { "clave": 99, "descripcion": "NO ESPECIFICADO" }
+]

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff71021c-f17e-43f7-b74a-7da701f76193" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IN_Tarea1Grupo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesarrolloT1G4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diseño BD/Diseño DB Covid.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/5 Sector.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/8 Tipo_Paciente.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/9 casos_confirmados.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/covid-19_general_MX.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0209137769218688" />
+      <entry key="MS500" value="1.8157224850020943" />
+      <entry key="S2" value="5.068864623544149" />
+      <entry key="S5" value="7.062144649133266" />
+      <entry key="S10" value="7.95641771888264" />
+      <entry key="S30" value="8.634014890984783" />
+      <entry key="S60" value="8.814712392754341" />
+      <entry key="M2" value="8.946386685048049" />
+      <entry key="M5" value="11.512069521788245" />
+      <entry key="M10" value="22.436784686205694" />
+      <entry key="M15" value="36.68731253977926" />
+      <entry key="M30" value="89.49206714473469" />
+      <entry key="H1" value="204.3335622948035" />
+      <entry key="H2" value="371.78665917723015" />
+      <entry key="H4" value="534.4129998919718" />
+      <entry key="D1" value="750.7030008150015" />
+      <entry key="W1" value="798.6335920644999" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.8680695369951245E-307" />
+      <entry key="S5" value="3.9799382552579E-123" />
+      <entry key="S10" value="8.884926495786836E-62" />
+      <entry key="S30" value="8.312508908950149E-21" />
+      <entry key="S60" value="1.8586955501347077E-10" />
+      <entry key="M2" value="3.300770860702469E-5" />
+      <entry key="M5" value="0.062431884668756175" />
+      <entry key="M10" value="1.1002280728326181" />
+      <entry key="M15" value="3.3184688197064975" />
+      <entry key="M30" value="11.876171906370875" />
+      <entry key="H1" value="26.13067557413291" />
+      <entry key="H2" value="42.03601761238087" />
+      <entry key="H4" value="55.01670624359279" />
+      <entry key="D1" value="70.28206514401778" />
+      <entry key="W1" value="73.45294464984873" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9794654648815816" />
+      <entry key="MS500" value="1.7990509145947688" />
+      <entry key="S2" value="5.053279939039448" />
+      <entry key="S5" value="7.053085562081918" />
+      <entry key="S10" value="7.95125810822157" />
+      <entry key="S30" value="8.632136433678282" />
+      <entry key="S60" value="8.813752055076684" />
+      <entry key="M2" value="8.945930011634042" />
+      <entry key="M5" value="11.57328776169296" />
+      <entry key="M10" value="23.52890537539157" />
+      <entry key="M15" value="39.99062050042981" />
+      <entry key="M30" value="101.34277355962921" />
+      <entry key="H1" value="230.4365537845281" />
+      <entry key="H2" value="413.8003986982919" />
+      <entry key="H4" value="589.4151296741605" />
+      <entry key="D1" value="820.9819685028749" />
+      <entry key="W1" value="872.0860745413457" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3EmnFirwfVdkU2QRC5HLZuJ9uCD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo-Rafael/PycharmProjects/IN_Tarea1Grupo4/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo-Rafael\PycharmProjects\IN_Tarea1Grupo4\data" />
+      <recent name="C:\Users\Lenovo-Rafael\PycharmProjects\IN_Tarea1Grupo4\Diseño BD" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff71021c-f17e-43f7-b74a-7da701f76193" name="Changes" comment="" />
+      <created>1780792510561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780792510561</updated>
+      <workItem from="1780792511597" duration="10091000" />
+      <workItem from="1780842388341" duration="2728000" />
+      <workItem from="1780845334904" duration="5242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

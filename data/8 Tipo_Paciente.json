@@ -1,0 +1,14 @@
+[
+  {
+    "clave": 1,
+    "descripcion": "AMBULATORIO"
+  },
+  {
+    "clave": 2,
+    "descripcion": "HOSPITALIZADO"
+  },
+  {
+    "clave": 99,
+    "descripcion": "NO ESPECIFICADO"
+  }
+]
