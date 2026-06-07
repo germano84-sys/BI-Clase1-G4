@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Downloads/Salud/1 Entidades.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Salud/2 Nacionalidad.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Salud/3 Origen.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Salud/4 Resultado.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Salud/6 Sexo.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Salud/7. Si_No.sql" dialect="PostgreSQL" />
+  </component>
+</project>
