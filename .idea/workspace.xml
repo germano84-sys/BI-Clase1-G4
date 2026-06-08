@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff71021c-f17e-43f7-b74a-7da701f76193" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesarrolloT1G4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DesarrolloT1G4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="25" />
+    <option name="cachedIndexableFilesCount" value="26" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,79 +26,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "germano84-sys"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;germano84-sys&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/germano84-sys/BI-Clase1-G4.git",
-    "accountId": "632bb5cc-10b2-4d33-b233-9a6e2c69c854"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/germano84-sys/BI-Clase1-G4.git&quot;,
+    &quot;accountId&quot;: &quot;632bb5cc-10b2-4d33-b233-9a6e2c69c854&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4201188435065117" />
-      <entry key="MS500" value="5.308514075459703" />
-      <entry key="S2" value="16.808961117689673" />
-      <entry key="S5" value="27.435832734411502" />
-      <entry key="S10" value="35.88157040693774" />
-      <entry key="S30" value="55.63756409030691" />
-      <entry key="S60" value="69.54864847925855" />
-      <entry key="M2" value="85.60127632826891" />
-      <entry key="M5" value="113.47015397967355" />
-      <entry key="M10" value="139.22093481338825" />
-      <entry key="M15" value="158.6485710702294" />
-      <entry key="M30" value="214.65538694963922" />
-      <entry key="H1" value="329.74045434502693" />
-      <entry key="H2" value="501.9922504648854" />
-      <entry key="H4" value="673.8623819754514" />
-      <entry key="D1" value="907.4527186163366" />
-      <entry key="W1" value="959.8360287798039" />
+      <entry key="MS100" value="1.574405614570846" />
+      <entry key="MS500" value="2.143305421361248" />
+      <entry key="S2" value="4.398872031540169" />
+      <entry key="S5" value="8.384173526253658" />
+      <entry key="S10" value="12.8953222676996" />
+      <entry key="S30" value="20.843203138618815" />
+      <entry key="S60" value="24.402895675197794" />
+      <entry key="M2" value="28.066192250051614" />
+      <entry key="M5" value="50.67421079902898" />
+      <entry key="M10" value="90.75102174595405" />
+      <entry key="M15" value="121.43968569878412" />
+      <entry key="M30" value="192.9860631657233" />
+      <entry key="H1" value="317.2732911462238" />
+      <entry key="H2" value="498.3951102158323" />
+      <entry key="H4" value="680.6248875223978" />
+      <entry key="D1" value="931.3930853774126" />
+      <entry key="W1" value="988.0696992752723" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="6.033314522246921E-173" />
-      <entry key="S10" value="1.0939403839783793E-86" />
-      <entry key="S30" value="4.1353479996231476E-29" />
-      <entry key="S60" value="1.3109865270986238E-14" />
-      <entry key="M2" value="2.7721093733541005E-7" />
-      <entry key="M5" value="0.009227508189263397" />
-      <entry key="M10" value="0.42298183690770746" />
-      <entry key="M15" value="1.754541881077601" />
-      <entry key="M30" value="8.635539485753522" />
-      <entry key="H1" value="22.282152255647183" />
-      <entry key="H2" value="38.81725450758005" />
-      <entry key="H4" value="52.86840536140314" />
-      <entry key="D1" value="69.81704311201321" />
-      <entry key="W1" value="73.38331807950543" />
+      <entry key="S5" value="7.094646385412464E-215" />
+      <entry key="S10" value="1.1862631754934214E-107" />
+      <entry key="S30" value="4.2485544998456636E-36" />
+      <entry key="S60" value="4.20206527211449E-18" />
+      <entry key="M2" value="4.96298136101845E-9" />
+      <entry key="M5" value="0.0018461090547924421" />
+      <entry key="M10" value="0.1891943555582603" />
+      <entry key="M15" value="1.026174874785035" />
+      <entry key="M30" value="6.604170747032139" />
+      <entry key="H1" value="19.485948342686278" />
+      <entry key="H2" value="36.30003299467755" />
+      <entry key="H4" value="51.12547000678167" />
+      <entry key="D1" value="69.42805018374818" />
+      <entry key="W1" value="73.32476915428761" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3682899139909017" />
-      <entry key="MS500" value="5.267275867201952" />
-      <entry key="S2" value="16.775939733282087" />
-      <entry key="S5" value="27.414234051901026" />
-      <entry key="S10" value="35.86742812970278" />
-      <entry key="S30" value="55.63021103876085" />
-      <entry key="S60" value="69.54397684656523" />
-      <entry key="M2" value="85.59826698345817" />
-      <entry key="M5" value="113.47748292872856" />
-      <entry key="M10" value="139.6397400310911" />
-      <entry key="M15" value="160.3943277783144" />
-      <entry key="M30" value="223.27198709133052" />
-      <entry key="H1" value="351.9987775869035" />
-      <entry key="H2" value="540.7888186840448" />
-      <entry key="H4" value="726.7167222624691" />
-      <entry key="D1" value="977.2666750251251" />
-      <entry key="W1" value="1033.2188837300782" />
+      <entry key="MS100" value="1.5342598589424787" />
+      <entry key="MS500" value="2.1314503368822875" />
+      <entry key="S2" value="4.390993484848873" />
+      <entry key="S5" value="8.37622832589657" />
+      <entry key="S10" value="12.88823836428473" />
+      <entry key="S30" value="20.838868334219693" />
+      <entry key="S60" value="24.40027259583904" />
+      <entry key="M2" value="28.064687910747608" />
+      <entry key="M5" value="50.67505933908138" />
+      <entry key="M10" value="90.93803246064112" />
+      <entry key="M15" value="122.46051058009152" />
+      <entry key="M30" value="199.57564306549534" />
+      <entry key="H1" value="336.73834726871155" />
+      <entry key="H2" value="534.6757715751679" />
+      <entry key="H4" value="731.7367427264032" />
+      <entry key="D1" value="1000.8180638178709" />
+      <entry key="W1" value="1061.3940053500885" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,32 +109,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Lenovo-Rafael/PycharmProjects/IN_Tarea1Grupo4/Desarrollo Tarea",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo-Rafael/PycharmProjects/IN_Tarea1Grupo4/Desarrollo Tarea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo-Rafael\PycharmProjects\IN_Tarea1Grupo4\Desarrollo Tarea" />
@@ -158,7 +158,9 @@
       <updated>1780792510561</updated>
       <workItem from="1780792511597" duration="10091000" />
       <workItem from="1780842388341" duration="2728000" />
-      <workItem from="1780845334904" duration="6179000" />
+      <workItem from="1780845334904" duration="7196000" />
+      <workItem from="1780882606167" duration="8000" />
+      <workItem from="1780954908286" duration="44000" />
     </task>
     <servers />
   </component>
